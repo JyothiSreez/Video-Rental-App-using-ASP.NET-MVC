@@ -1,7 +1,7 @@
 ## Video Rental App using ASP.NET MVC
 ### A video rental application created using ASP.NET MVC and Enitity framework
 
-This is a video rental application project from udemy which includes on
+This is a video rental application project from udemy which includes 
 - Adding Customers and Movie records
 - Editing Customers and Movie records
 - Searching a particular customer or movie
