@@ -7,6 +7,7 @@ This is a video rental application which includes
 - Searching a particular customer or movie
 - Adding new rentals to the form
 - Social Logins
+- REST API Integration
 
 
 ![list customers -asp net mvc](https://user-images.githubusercontent.com/38304110/112773398-2d9cae80-8ff3-11eb-91d8-fa06090287dd.JPG)
